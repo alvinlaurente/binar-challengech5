@@ -4,16 +4,16 @@ Binar Academy Full Stack Web Development Challenge Chapter 5 - Migrating to Node
 
 ### Step-by-step to run the app
 
-1. Clone the repo.
+1. Clone the repository.
 2. Open directory.
 3. Run in terminal : `npm install` to install all required packages that listed in **_packages.json_**.
 4. Run **Server** in terminal : `npm start`
 6. To test if the routes work, try to click the **1st image** of carousel (_Rock Paper Scissor_ image).
-7. Try to go to undefined routes (ex: `localhost:3000/abcde` or `localhost:3000/login`) and you will be redirected into **404 page**.
+7. Try to go to undefined routes (ex: `localhost:3000/abcde` or `localhost:3000/12345`) and you will be redirected into **404 page**.
 
 ### Packages used :
 
-- Babel : Transpiler
+- Babel : Transcompiler
 - Express : Node.js Framework
 - EJS : View Engine
 - ESLint : Linter - airbnb based
